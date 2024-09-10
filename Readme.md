@@ -3,7 +3,7 @@
 This is a intellij generated kotlin project used to reproduce the bug I'm experiencing where the "Create Class" action
 is not available when writing a constructor call for a class that does not yet exist.
 
-![example](readme_attachments/can't create class.gif)
+![example](readme_attachments/cannot-create-class.gif)
 
 ## Version information
 
